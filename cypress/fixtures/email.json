@@ -1,0 +1,4 @@
+{ "incorrect_email":"123456.?DAS",
+  "existing_email": "test@test.test",
+  "unique_email": "hello@cypress.io"
+}
