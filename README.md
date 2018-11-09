@@ -1,5 +1,5 @@
 # spera-test
-example of automated test suit on ruby-selenium-rspec
+example of automated test suit with 
 stack: -node.js
        -cypress
 
